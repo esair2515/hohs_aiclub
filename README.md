@@ -1,4 +1,2 @@
-# Autocorrect Project
-Autocorrect using textdistance library
+# Welcome to the Github for all HoHs A.I. Club Projects
 
-Made for demonstration at HoHs A.I. Club
